@@ -1,0 +1,15 @@
+# Scripts locales de mantenimiento y procesamiento
+*.py
+gallery_data.json
+Enlaces para usar.txt
+start.bat
+Dossier Luciano Magrini.pdf
+
+# Archivos de sistema y temporales
+*.heic
+.DS_Store
+Thumbs.db
+__pycache__/
+*.pyc
+.idea/
+.vscode/
